@@ -1,0 +1,5 @@
+mongo_username: opayo
+mongo_password: opayo
+mongo_host: localhost
+mongo_port: 27017
+mongo_database: opayo
